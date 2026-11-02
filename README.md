@@ -1,7 +1,7 @@
 <h1 align="center">🛡️ prompt-injection</h1>
 
 <p align="center">
-  Интерактивный стенд для исследования и защиты от косвенных промпт-инъекций (Indirect Prompt Injection) в LLM и AI-агентах
+  Проект по исследованию защиты от косвенных промпт-инъекций (Indirect Prompt Injection) в LLM и AI-агентах
 </p>
 
 <p align="center">
